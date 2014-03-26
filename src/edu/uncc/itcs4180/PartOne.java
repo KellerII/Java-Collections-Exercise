@@ -1,8 +1,7 @@
 /*	ITCS 4180 - 091
  * 	Date:  1/28/2014
  * 	Assignment:  HW1
- * 	Authors:  James Keller
- * 			  Kenneth Holsey
+ * 	Author:  James Keller
  */
 
 package edu.uncc.itcs4180;
